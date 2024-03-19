@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on prompts 
 - 📫 How to reach me here 
 - 😄 Pronouns: she/her /hers
-- ⚡ Fun fact: I start speaking in Spanish with noticing that I change languages
+- ⚡ Fun fact: I start speaking in Spanish without noticing that I change languages
 
 <!---
 Michy8602/Michy8602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
